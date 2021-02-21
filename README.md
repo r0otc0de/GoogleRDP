@@ -1,5 +1,5 @@
 # GoogleRDP
-Using [This Link](https://colab.research.google.com/)
+Using [This Site](https://colab.research.google.com/)
 
 # How to do:
 
