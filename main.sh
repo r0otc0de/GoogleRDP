@@ -1,5 +1,5 @@
 #! /bin/bash
-printf "Check Out My Channel While Waiting- https://youtu.be/VeO22kIvZOQ" >&2
+printf "Please Wait Until Its Proccess is done" >&2
 {
 sudo useradd -m arthur
 sudo adduser arthur sudo
