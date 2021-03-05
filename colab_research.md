@@ -16,7 +16,3 @@ In the redirected page paste the code below
 Then Just do what it asked for and BOOM!! You get your free google RDP
 
 Thank You
-
-# For help or contract
-
-You can contract me in [Facebook](https://www.facebook.com/0x4R7HUR) or in [Twitter](https://twitter.com/0xAr7hur)
